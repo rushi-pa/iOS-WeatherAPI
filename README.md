@@ -1,13 +1,11 @@
 # iOS-WeatherAPI
-# Heading 1 #
-What does this app do?
+# What does this app do? #
 
 It fetches data from open weather map website and using JSON decoder to map out the data passed by calling API.
 Watch app is connected to iPhone app. So, when ever user enters city name data will be changed in both iPhone and iPad.
 
 
-# Heading 1 #
-Technologies / Libraries used to create this project
+#Technologies / Libraries used to create this project#
 -https://openweathermap.org to get weather info by API calls
 -JSONParsing
 -threading
