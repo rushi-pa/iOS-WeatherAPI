@@ -5,7 +5,7 @@ It fetches data from open weather map website and using JSON decoder to map out 
 Watch app is connected to iPhone app. So, when ever user enters city name data will be changed in both iPhone and iPad.
 
 
-#Technologies / Libraries used to create this project#
+# Technologies / Libraries used to create this project #
 -https://openweathermap.org to get weather info by API calls
 -JSONParsing
 -threading
