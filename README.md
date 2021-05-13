@@ -1,4 +1,4 @@
-<img width="392" alt="Screen Shot 2021-05-12 at 9 18 29 PM" src="https://user-images.githubusercontent.com/63312395/118063923-082bf000-b368-11eb-9ea5-cad6cd9601d5.png">
+
 
 # iOS-WeatherAPI
 # What does this app do? #
